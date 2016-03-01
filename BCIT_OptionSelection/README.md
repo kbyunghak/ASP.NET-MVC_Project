@@ -1,4 +1,4 @@
-Project Background
+- Project Background
 BCIT CST diploma students are required to choose their options at the end of their first year of a 
 two years program. They get to choose 1st, 2nd, 3rd, and 4th choices.
 
