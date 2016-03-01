@@ -1,0 +1,15 @@
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\DiplomaDataModel.dll.config
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\DiplomaDataModel.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\DiplomaDataModel.pdb
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\EntityFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\EntityFramework.SqlServer.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\Microsoft.AspNet.Identity.Core.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\EntityFramework.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\EntityFramework.SqlServer.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\Microsoft.AspNet.Identity.Core.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Release\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\obj\Release\DiplomaDataModel.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\obj\Release\DiplomaDataModel.pdb

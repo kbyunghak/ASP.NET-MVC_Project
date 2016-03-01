@@ -1,0 +1,46 @@
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\byunghak\documents\visual studio 2015\Projects\DiplomaOptions\DiplomaDataModel\bin\Debug\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.xml
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+C:\Users\Anthony\Desktop\COMP4870-Asn01\DiplomaOptions\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll.config
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\DiplomaDataModel.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\DiplomaDataModel.pdb
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\EntityFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\EntityFramework.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\EntityFramework.SqlServer.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\bin\Debug\ko\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\obj\Debug\DiplomaDataModel.csprojResolveAssemblyReference.cache
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\obj\Debug\DiplomaDataModel.dll
+D:\KimByunghak_FiqueroaAnthony_ass1_v4\DiplomaDataModel\obj\Debug\DiplomaDataModel.pdb
