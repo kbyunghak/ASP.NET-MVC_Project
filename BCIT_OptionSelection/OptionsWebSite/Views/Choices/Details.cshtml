@@ -1,0 +1,94 @@
+﻿@model DiplomaDataModel.Models.Choice
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+
+    Dictionary<int, string> termNames = ViewBag.termName;
+    int termNumber = (int)ViewBag.termNum;
+}
+
+<h2>@termNames[termNumber]</h2>
+
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.FirstChoiceOptionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FirstOption.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SecondChoiceOptionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SecondOption.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ThirdChoiceOptionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ThirdOption.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FourthChoiceOptionId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FourthOption.Title)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.YearTermId)
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.YearTerms.Term)*@
+            @termNames[termNumber]
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentId)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentFirstName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentFirstName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.StudentLastName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.StudentLastName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.SelecionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.SelecionDate)
+        </dd>
+    </dl>
+
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ChoiceId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
